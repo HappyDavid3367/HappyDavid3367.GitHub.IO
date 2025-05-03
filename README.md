@@ -1,8 +1,8 @@
 你好！我是HappyDavid3367！
 
-[本页](HappyDavid3367.GitHub.io/)
+[本页](https://happydavid3367.github.io/)
 
-[GitHub主页](HappyDavid3367.GitHub.IO/HappyDavid3367/)
+[GitHub主页](https://happydavid3367.github.io/HappyDavid3367/)
 
 [洛谷主页](https://www.luogu.com.cn/user/738761)
 
@@ -11,6 +11,6 @@
 [新](https://newoj.daimayuan.top/user/11943)
 [比赛](https://bs.daimayuan.top/user/230)
 
-[jsntzth的主页](jsntzth.github.io/)
+[jsntzth的主页](https://jsntzth.github.io/)
 以及他的
-[DickSeep](jsntzth.github.io/dickseep.html)
+[DickSeep](https://jsntzth.github.io/dickseep.html)
